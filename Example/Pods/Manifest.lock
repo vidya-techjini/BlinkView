@@ -1,0 +1,14 @@
+PODS:
+  - BlinkView (0.1.0)
+
+DEPENDENCIES:
+  - BlinkView (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BlinkView: b304a09d7b47d97fb1d02aafa4c2bca8e82172a7
+
+COCOAPODS: 0.39.0
